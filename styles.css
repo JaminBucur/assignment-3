@@ -1,0 +1,24 @@
+.banner {
+  background-color: #f8f9fa;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.banner h1 {
+  margin-bottom: 20px;
+}
+
+.footer {
+  background-color: #343a40;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+main {
+  padding: 15px;
+}
+
+section {
+  margin-bottom: 50px;
+}
